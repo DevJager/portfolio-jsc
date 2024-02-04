@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Ignacio Andres Guerrero Osorio",
-    "label": "Industrial Civil Engineer with more than 12 years of experience in business processes, marketing and process and systems optimization.",
+    "label": "Industrial Civil Engineer with more than 12 years of experience in business processes, marketing, process and systems optimization.",
     "image": "src/images/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "ign4cio.guerrero@gmail.com",
+    "phone": "+61 0497661751",
     "url": "https://jagerxd.dev",
     "summary": " I am a Civil Industrial Engineer with more than 12 years of experience in business processes, marketing and process and systems optimization. I have worked in different industries such as retail, banking, and technology. I have a strong background in project management, process optimization, and systems implementation. I am passionate about technology and I am always looking for new challenges and opportunities to learn and grow.",
     "location": {
@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "CCEB",
-      "position": "IT and marketing engineer",
+      "position": "IT and Marketing Engineer",
       "url": "https://jagerxd.dev",
       "startDate": "2023-01-01",
       "endDate": null,
@@ -51,16 +51,6 @@
       "startDate": "2022-07-23",
       "endDate": null,
       "summary": " I currently work in the different departments of Coles, Butchery, Dairy Products and Grocery.\n\nHelping in restocking and customer service.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
       "highlights": [
         "Started the company"
       ]
@@ -81,18 +71,79 @@
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
+      "institution": "Cairns College of English and Business",
+      "url": "https://www.cceb.qld.edu.au",
+      "area": " Advance Diploma Leadership and Management",
+      "studyType": "Post Graduate",
+      "startDate": "2024",
+      "endDate": null,
+      "score": "6.0",
       "courses": [
-        "DB1101 - Basic SQL"
+        ""
+      ]
+    },
+    {
+      "institution": "Cairns College of English and Business",
+      "url": "https://www.cceb.qld.edu.au",
+      "area": "Diploma of Leadership and Management",
+      "studyType": "Bachelor",
+      "startDate": "2023-03-01",
+      "endDate": "2023",
+      "score": "6.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Instituto Profesional IACC",
+      "url": "https://www.iacc.cl",
+      "area": "IT Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2023",
+      "endDate": null,
+      "score": "6.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universidad Viña del Mar",
+      "url": "https://www.uvm.cl",
+      "area": "Master in commercial and marketing management",
+      "studyType": "Post Graduate",
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-25",
+      "score": "6.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universidad Viña del Mar",
+      "url": "https://www.uvm.cl",
+      "area": "Diploma in Marketing and Sales Management",
+      "studyType": "Post Graduate",
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-25",
+      "score": "6.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universidad Andres Bello",
+      "url": "https://www.unab.cl",
+      "area": "Ingeniero Civil Industrial",
+      "studyType": "Bachelor",
+      "startDate": "2010-01-01",
+      "endDate": "2015-12-25",
+      "score": "6.0",
+      "courses": [
+        ""
       ]
     }
   ],
+
   "awards": [
     {
       "title": "Award",

@@ -171,16 +171,16 @@
   ],
   "skills": [
     {
-      "name": "HTML",
+      "name": "BPMN",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend"
+        "Process Improvement",
+        "Process Optimization"
       ]
     },
     {
-      "name": "CSS",
-      "level": "Master",
+      "name": "SalesForce",
+      "level": "Intermedium",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -189,7 +189,7 @@
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "intermedium",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -198,18 +198,18 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
+      "name": "Java",
+      "level": "intermedium",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
+        "Backend",
+        "Diseño"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Beginner",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -219,7 +219,7 @@
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "intermedium",
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -229,7 +229,7 @@
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Intermedium",
       "keywords": [
         "Bases de Datos",
         "SQL",
@@ -239,7 +239,7 @@
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Intermedium",
       "keywords": [
         "Control de Versiones",
         "Colaboración",
@@ -257,19 +257,15 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Scrum Master",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Agile Methodology"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Beginner",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -305,66 +301,93 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Progesys, Sigdo Koppers",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "AS-IS processes survey, system recognition and gap analysis.\n\nTO-BE implementation\n\nUser Stories, Agile Methodology.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "BPMN",
+        "Gap Analysis"
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
+      "name": "Progesys, Banco Security",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Processes survey project in Security Bank, Survey of the current situation and improvements through the TO-BE.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Bank",
+        "Multi-Process",
+        "Agile Methodology"
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "Imagemaker, Scotiabank",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "PMO (Chile, Canada and Mexico Projects) Development Manager (Forum Project)\n\nBA Project Manager (Business Analysis)",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "PMO", "BA", "Agile Methodology",
+        "English"
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
+      "name": "Zurich Santander (Project)",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Requirements assessment and software architecture design for the Zurich Santander project.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "JAVA", "Agile Methodology" , "English",
+        "Support"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Falabella Insurance",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Requirements assessment, improvement of the online sales app, automation of business processes.",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Automation", "Agile Methodology",
+        "Marketing"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "AFP Habitat",
+      "description": "Process Improvement and Upgrading, TO-BE implementation, User Stories, Agile Methodology.",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Scrum", "Agile Methodology",
+        "Bizagi","Aris"
       ],
-      "url": "https://miduconf.com"
+      "url": ""
+    },
+    {
+      "name": "Banco BCI",
+      "description": "Processes survey for Banco BCI, The insurance brokerage company.\n\nImplementation of investment processes for Banco BCI.",
+      "highlights": [
+        "Scrum", "Agile Methodology",
+        "Bizagi","Aris"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Banco BICE",
+      "description": "CRM Banco Bice CRM project, using tools with Salesforce VisualForce application, APEX, Java, HTML, XML.",
+      "highlights": [
+        "SalesForce", "Apex",
+        "HTML","XML","Java"
+      ],
+      "url": ""
+    },
+    {
+      "name": "ESVAL- Aguas del Valle",
+      "description": "Risk Analyst and Process Engineer, in charge of managing the budget from 2016 to 2021 Risk methodology and ISO 55000, 55001, 55002, 9001, 14001, 31000.",
+      "highlights": [
+        "ISO", "BPMN",
+        "Bizagi","Aris"
+      ],
+      "url": ""
     }
   ]
 }
